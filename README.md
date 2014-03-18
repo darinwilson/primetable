@@ -16,7 +16,7 @@ The code was written and tested using Ruby 2.0.0 and RSpec 2.14.7 on Mac OS 10.8
 
 #### Implementation
 
-The program is built from two classes: PrimeGenerator and MultiplicationTable. The implementation approach and trade-offs are explained in the classes' comments headers.
+The program is built from two classes: [PrimeGenerator](https://github.com/darinwilson/primetable/blob/master/lib/prime_generator.rb) and [MultiplicationTable](https://github.com/darinwilson/primetable/blob/master/lib/multiplication_table.rb). The implementation approach and trade-offs are explained in the classes' comments headers.
 
 #### Tests
 
