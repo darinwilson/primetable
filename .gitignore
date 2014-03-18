@@ -5,6 +5,8 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 /tmp
+.ruby-gemset
+.ruby-version
 
 # Hidden system files
 *.DS_Store
